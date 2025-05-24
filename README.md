@@ -65,7 +65,7 @@
 #### Extensions
 
 - 4: The next player must play a card of the same color as the played 4
-  - 4 can be plated on any 4, no matter the color
+  - 4 can be played on any 4, no matter the color
 - Q: Reverses the direction of play
 - 10: Cannot be played on 7
 
