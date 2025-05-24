@@ -11,10 +11,10 @@
 
 - Players take turns playing cards clock-wise around the table
 - Players must always play the same card or higher than the previous player unless a special card is in effect
-- When a player cannot play, they pick up the pile of all played cards and place it in their hand
-  - When a player picks up the pile of all played cards, they lose their turn
+- Players pick up the pile of all played cards and place it in their hand when they cannot play a card on their turn
+  - Players lose their turn when they pick up the pile
 - Players play cards from their hands until no more cards remain in their hand
-  - Players can only play cards from their hand while cards remain in their hand
+  - Players must play cards from their hand while cards remain in their hand
 - Players play the face-up cards placed in front of them when they have no cards in their hand
   - Players cannot play face-down cards while they have any face-up cards
 - Players play their face-down cards when they have no face-up cards to play
