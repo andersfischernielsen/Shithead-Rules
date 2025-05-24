@@ -20,7 +20,7 @@
 - Players play their face-down cards when they have no face-up cards to play
   - Players cannot pick up and look at their face-down cards
 - Players must play if they can do so
-- Players must draw as many cards as they play from their hands back into their hands while there are cards available in the draw-pile
+- Players draw the number of cards as they play while there are cards available in the draw-pile
 
 ## Setup
 
