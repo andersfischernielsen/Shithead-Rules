@@ -44,7 +44,7 @@
 
 - All cards rank in their natural order
 - Aces are high, suits are disregarded
-- Multiple cards of the same rank from players' hands and face-up cards can be played at the same time
+- Multiple cards of the same rank can be played at the same time
 - A set of four of the same cards takes all currently played cards out of the game
   - The player that takes all currently played cards out of the game plays again
   - Players that can complete the set of all four cards for the currently played card can do so even if it is not their turn
