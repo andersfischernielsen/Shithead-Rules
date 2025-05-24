@@ -1,5 +1,3 @@
-![Rules for Shithead](images/cards.png)
-
 # Rules
 
 ## Goals
@@ -60,12 +58,12 @@
 - 7: The next player must play 7 or below 7
 - 8: Skips the next player
   - The number of played 8 determines how many players are skipped
-  - Players cannot skip themselves if the number of played 8 do so
+  - Players cannot skip themselves
 
 #### Extensions
 
 - 4: The next player must play a card of the same color as the played 4
-  - The next player can play any colored 4 on the played 4
+  - 4 can be plated on any 4, no matter the color
 - Q: Reverses the direction of play
 - 10: Cannot be played on 7
 
