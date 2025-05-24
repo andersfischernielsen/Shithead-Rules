@@ -32,10 +32,13 @@
 - Players pick up their dealt hands
 - The remaining cards are placed in a draw-pile
 
-### 5+ players
+### 6 players
+
+- Include two Jokers to allow all players to be dealt cards
+
+### 6+ players
 
 - Only two face-down cards, two face-up cards and two hand cards are dealt to players
-  - Alternatively, include two Jokers to allow all players to be dealt cards
 
 ## Cards
 
