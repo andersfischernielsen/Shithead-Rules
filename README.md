@@ -42,7 +42,8 @@
 
 ## Cards
 
-- All cards rank in their natural order. Aces are high, suits are disregarded
+- All cards rank in their natural order
+- Aces are high, suits are disregarded
 - Multiple cards of the same rank from players' hands and face-up cards can be played at the same time
 - A set of four of the same cards takes all currently played cards out of the game
   - The player that takes all currently played cards out of the game plays again
