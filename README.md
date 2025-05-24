@@ -46,7 +46,7 @@
 - Multiple cards of the same rank from players' hands and face-up cards can be played at the same time
 - A set of four of the same cards takes all currently played cards out of the game
   - The player that takes all currently played cards out of the game plays again
-  - If a player can complete a set of all four cards for the currently played card, they can play those cards even if it is not their turn
+  - Players that can complete the set of all four cards for the currently played card can do so even if it is not their turn
 
 ### Special Cards
 
